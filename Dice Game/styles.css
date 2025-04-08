@@ -1,0 +1,57 @@
+html{
+    background-color: beige;
+}
+
+
+.container{
+    background-color: antiquewhite;
+    display: grid;
+    text-align: center;
+    margin-top: 100px;
+}
+.container > h1{
+    color: rgb(198, 89, 59);
+}
+.container > h2{
+    color: rgb(225, 63, 103);
+}
+.cont
+{
+   background-color: beige; 
+}
+.cont > .player1{
+    color: blueviolet;
+}
+.player1{
+    font-size: 46px;
+}
+.player2{
+    font-size: 46px;
+}
+.cont > .player2{
+    color: rgb(101, 77, 22);
+}
+.cont{
+    display: flex;
+   flex-direction: row;
+   justify-content: space-evenly;
+    
+}
+.co{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.co > h2{
+    font-size: 20px;
+}
+.ct{
+    background-color: beige; 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+footer{
+    background-color: beige; 
+    text-align: center;
+}
